@@ -1,0 +1,14 @@
+This is a project using tensorflow within CNN network.
+
+Code Explanation:
+
+split_dataset.py : used to split data set into training, validation and test data directory.
+
+simple.py : simple CNN with small data set and less epochs.
+
+augmentation.py : simple CNN with big data set and more epochs.
+
+transfer.py : transfer learning with small data set and less epochs.
+
+transfer_aug.py : transfer learning with big data set and more epochs.
+

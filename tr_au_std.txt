@@ -1,0 +1,165 @@
+Found 20000 images belonging to 2 classes.
+Found 5000 images belonging to 2 classes.
+Train on 20000 samples, validate on 2500 samples
+Epoch 1/60
+20000/20000 [==============================] - 11s 527us/step - loss: 0.3189 - acc: 0.8659 - val_loss: 0.2567 - val_acc: 0.8940
+Epoch 2/60
+   50/20000 [..............................] - ETA: 6s - loss: 0.1677 - acc: 0.9200C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.344183). Check your callbacks.
+  % delta_t_median)
+  100/20000 [..............................] - ETA: 1:17 - loss: 0.2603 - acc: 0.8900C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.172092). Check your callbacks.
+  % delta_t_median)
+20000/20000 [==============================] - 10s 498us/step - loss: 0.2307 - acc: 0.9042 - val_loss: 0.2576 - val_acc: 0.8860
+Epoch 3/60
+20000/20000 [==============================] - 10s 482us/step - loss: 0.2155 - acc: 0.9060 - val_loss: 0.2260 - val_acc: 0.9016
+Epoch 4/60
+20000/20000 [==============================] - 10s 482us/step - loss: 0.1962 - acc: 0.9179 - val_loss: 0.2139 - val_acc: 0.9084
+Epoch 5/60
+   50/20000 [..............................] - ETA: 12s - loss: 0.2398 - acc: 0.9200C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.375418). Check your callbacks.
+  % delta_t_median)
+  100/20000 [..............................] - ETA: 1:23 - loss: 0.2557 - acc: 0.9100C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.195519). Check your callbacks.
+  % delta_t_median)
+20000/20000 [==============================] - 10s 500us/step - loss: 0.1820 - acc: 0.9240 - val_loss: 0.2091 - val_acc: 0.9100
+Epoch 6/60
+   50/20000 [..............................] - ETA: 6s - loss: 0.1533 - acc: 0.9200C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.359815). Check your callbacks.
+  % delta_t_median)
+  100/20000 [..............................] - ETA: 1:20 - loss: 0.1337 - acc: 0.9300C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.179908). Check your callbacks.
+  % delta_t_median)
+20000/20000 [==============================] - 10s 501us/step - loss: 0.1719 - acc: 0.9295 - val_loss: 0.2106 - val_acc: 0.9108
+Epoch 7/60
+20000/20000 [==============================] - 10s 500us/step - loss: 0.1613 - acc: 0.9303 - val_loss: 0.2154 - val_acc: 0.9092
+Epoch 8/60
+20000/20000 [==============================] - 10s 486us/step - loss: 0.1528 - acc: 0.9383 - val_loss: 0.2233 - val_acc: 0.9160
+Epoch 9/60
+20000/20000 [==============================] - 10s 482us/step - loss: 0.1382 - acc: 0.9430 - val_loss: 0.2254 - val_acc: 0.9124
+Epoch 10/60
+20000/20000 [==============================] - 10s 493us/step - loss: 0.1435 - acc: 0.9404 - val_loss: 0.2411 - val_acc: 0.9100
+Epoch 11/60
+20000/20000 [==============================] - 10s 485us/step - loss: 0.1311 - acc: 0.9453 - val_loss: 0.2316 - val_acc: 0.9100
+Epoch 12/60
+20000/20000 [==============================] - 10s 484us/step - loss: 0.1186 - acc: 0.9502 - val_loss: 0.2592 - val_acc: 0.9132
+Epoch 13/60
+20000/20000 [==============================] - 10s 484us/step - loss: 0.1137 - acc: 0.9531 - val_loss: 0.2353 - val_acc: 0.9140
+Epoch 14/60
+20000/20000 [==============================] - 10s 484us/step - loss: 0.1075 - acc: 0.9554 - val_loss: 0.2377 - val_acc: 0.9128
+Epoch 15/60
+20000/20000 [==============================] - 10s 484us/step - loss: 0.1062 - acc: 0.9570 - val_loss: 0.2487 - val_acc: 0.9124
+Epoch 16/60
+20000/20000 [==============================] - 10s 484us/step - loss: 0.0999 - acc: 0.9607 - val_loss: 0.2565 - val_acc: 0.9136
+Epoch 17/60
+   50/20000 [..............................] - ETA: 12s - loss: 0.0486 - acc: 0.9800C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.312911). Check your callbacks.
+  % delta_t_median)
+  100/20000 [..............................] - ETA: 1:11 - loss: 0.0454 - acc: 0.9900C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.164276). Check your callbacks.
+  % delta_t_median)
+20000/20000 [==============================] - 10s 498us/step - loss: 0.0905 - acc: 0.9609 - val_loss: 0.2554 - val_acc: 0.9128
+Epoch 18/60
+   50/20000 [..............................] - ETA: 12s - loss: 0.0982 - acc: 0.9600C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.281693). Check your callbacks.
+  % delta_t_median)
+  100/20000 [..............................] - ETA: 1:08 - loss: 0.0718 - acc: 0.9700C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.141363). Check your callbacks.
+  % delta_t_median)
+20000/20000 [==============================] - 10s 498us/step - loss: 0.0848 - acc: 0.9654 - val_loss: 0.2827 - val_acc: 0.9100
+Epoch 19/60
+   50/20000 [..............................] - ETA: 6s - loss: 0.0492 - acc: 1.0000C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.234830). Check your callbacks.
+  % delta_t_median)
+  100/20000 [..............................] - ETA: 55s - loss: 0.1378 - acc: 0.9600C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.117415). Check your callbacks.
+  % delta_t_median)
+20000/20000 [==============================] - 10s 496us/step - loss: 0.0820 - acc: 0.9670 - val_loss: 0.3130 - val_acc: 0.9144
+Epoch 20/60
+   50/20000 [..............................] - ETA: 4s - loss: 0.1002 - acc: 0.9600C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.312936). Check your callbacks.
+  % delta_t_median)
+  100/20000 [..............................] - ETA: 1:07 - loss: 0.0698 - acc: 0.9700C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.164277). Check your callbacks.
+  % delta_t_median)
+20000/20000 [==============================] - 10s 500us/step - loss: 0.0734 - acc: 0.9701 - val_loss: 0.2877 - val_acc: 0.9136
+Epoch 21/60
+20000/20000 [==============================] - 10s 497us/step - loss: 0.0816 - acc: 0.9655 - val_loss: 0.2695 - val_acc: 0.9104
+Epoch 22/60
+20000/20000 [==============================] - 10s 486us/step - loss: 0.0769 - acc: 0.9671 - val_loss: 0.3110 - val_acc: 0.9156
+Epoch 23/60
+20000/20000 [==============================] - 10s 503us/step - loss: 0.0708 - acc: 0.9701 - val_loss: 0.2877 - val_acc: 0.9176
+Epoch 24/60
+20000/20000 [==============================] - 10s 485us/step - loss: 0.0648 - acc: 0.9738 - val_loss: 0.2802 - val_acc: 0.9144
+Epoch 25/60
+20000/20000 [==============================] - 10s 485us/step - loss: 0.0624 - acc: 0.9750 - val_loss: 0.3071 - val_acc: 0.9088
+Epoch 26/60
+20000/20000 [==============================] - 10s 490us/step - loss: 0.0636 - acc: 0.9740 - val_loss: 0.3311 - val_acc: 0.9108
+Epoch 27/60
+20000/20000 [==============================] - 10s 486us/step - loss: 0.0647 - acc: 0.9728 - val_loss: 0.3669 - val_acc: 0.9176
+Epoch 28/60
+20000/20000 [==============================] - 10s 485us/step - loss: 0.0619 - acc: 0.9754 - val_loss: 0.2731 - val_acc: 0.9120
+Epoch 29/60
+20000/20000 [==============================] - 10s 491us/step - loss: 0.0615 - acc: 0.9742 - val_loss: 0.3667 - val_acc: 0.9128
+Epoch 30/60
+20000/20000 [==============================] - 10s 482us/step - loss: 0.0651 - acc: 0.9746 - val_loss: 0.3119 - val_acc: 0.9148
+Epoch 31/60
+20000/20000 [==============================] - 10s 488us/step - loss: 0.0667 - acc: 0.9709 - val_loss: 0.3237 - val_acc: 0.9132
+Epoch 32/60
+   50/20000 [..............................] - ETA: 6s - loss: 0.0360 - acc: 0.9800C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.297318). Check your callbacks.
+  % delta_t_median)
+  100/20000 [..............................] - ETA: 1:05 - loss: 0.0417 - acc: 0.9800C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.148659). Check your callbacks.
+  % delta_t_median)
+20000/20000 [==============================] - 10s 514us/step - loss: 0.0577 - acc: 0.9745 - val_loss: 0.3245 - val_acc: 0.9112
+Epoch 33/60
+   50/20000 [..............................] - ETA: 6s - loss: 0.0734 - acc: 0.9600C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.468671). Check your callbacks.
+  % delta_t_median)
+  100/20000 [..............................] - ETA: 1:39 - loss: 0.0640 - acc: 0.9600C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.234336). Check your callbacks.
+  % delta_t_median)
+20000/20000 [==============================] - 10s 504us/step - loss: 0.0485 - acc: 0.9791 - val_loss: 0.3938 - val_acc: 0.9148
+Epoch 34/60
+20000/20000 [==============================] - 10s 482us/step - loss: 0.0557 - acc: 0.9763 - val_loss: 0.2900 - val_acc: 0.9120
+Epoch 35/60
+20000/20000 [==============================] - 10s 489us/step - loss: 0.0658 - acc: 0.9726 - val_loss: 0.3359 - val_acc: 0.9120
+Epoch 36/60
+20000/20000 [==============================] - 10s 481us/step - loss: 0.0599 - acc: 0.9744 - val_loss: 0.3937 - val_acc: 0.9120
+Epoch 37/60
+20000/20000 [==============================] - 10s 481us/step - loss: 0.0509 - acc: 0.9803 - val_loss: 0.3794 - val_acc: 0.9116
+Epoch 38/60
+20000/20000 [==============================] - 10s 482us/step - loss: 0.0528 - acc: 0.9775 - val_loss: 0.3568 - val_acc: 0.9100
+Epoch 39/60
+20000/20000 [==============================] - 10s 483us/step - loss: 0.0487 - acc: 0.9794 - val_loss: 0.3646 - val_acc: 0.9104
+Epoch 40/60
+20000/20000 [==============================] - 10s 486us/step - loss: 0.0503 - acc: 0.9788 - val_loss: 0.4011 - val_acc: 0.9064
+Epoch 41/60
+20000/20000 [==============================] - 10s 484us/step - loss: 0.0496 - acc: 0.9792 - val_loss: 0.3515 - val_acc: 0.9032
+Epoch 42/60
+20000/20000 [==============================] - 10s 484us/step - loss: 0.0488 - acc: 0.9783 - val_loss: 0.4277 - val_acc: 0.9156
+Epoch 43/60
+20000/20000 [==============================] - 10s 484us/step - loss: 0.0505 - acc: 0.9794 - val_loss: 0.3912 - val_acc: 0.9120
+Epoch 44/60
+20000/20000 [==============================] - 10s 484us/step - loss: 0.0484 - acc: 0.9802 - val_loss: 0.4033 - val_acc: 0.9136
+Epoch 45/60
+20000/20000 [==============================] - 10s 482us/step - loss: 0.0528 - acc: 0.9768 - val_loss: 0.3910 - val_acc: 0.9092
+Epoch 46/60
+20000/20000 [==============================] - 10s 497us/step - loss: 0.0497 - acc: 0.9779 - val_loss: 0.4100 - val_acc: 0.9108
+Epoch 47/60
+20000/20000 [==============================] - 10s 495us/step - loss: 0.0416 - acc: 0.9815 - val_loss: 0.4511 - val_acc: 0.9076
+Epoch 48/60
+   50/20000 [..............................] - ETA: 6s - loss: 0.0037 - acc: 1.0000C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.300483). Check your callbacks.
+  % delta_t_median)
+  100/20000 [..............................] - ETA: 1:05 - loss: 0.0116 - acc: 1.0000C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.158071). Check your callbacks.
+  % delta_t_median)
+20000/20000 [==============================] - 10s 496us/step - loss: 0.0418 - acc: 0.9823 - val_loss: 0.4161 - val_acc: 0.9116
+Epoch 49/60
+20000/20000 [==============================] - 10s 483us/step - loss: 0.0400 - acc: 0.9833 - val_loss: 0.4140 - val_acc: 0.9100
+Epoch 50/60
+20000/20000 [==============================] - 10s 484us/step - loss: 0.0494 - acc: 0.9787 - val_loss: 0.3782 - val_acc: 0.9124
+Epoch 51/60
+20000/20000 [==============================] - 10s 483us/step - loss: 0.0420 - acc: 0.9818 - val_loss: 0.3969 - val_acc: 0.9112
+Epoch 52/60
+   50/20000 [..............................] - ETA: 6s - loss: 0.0473 - acc: 0.9800C:\Users\iceli\Anaconda3\envs\tf_np\lib\site-packages\keras\callbacks.py:120: UserWarning: Method on_batch_end() is slow compared to the batch update (0.156716). Check your callbacks.
+  % delta_t_median)
+20000/20000 [==============================] - 10s 495us/step - loss: 0.0432 - acc: 0.9816 - val_loss: 0.3988 - val_acc: 0.9120
+Epoch 53/60
+20000/20000 [==============================] - 10s 484us/step - loss: 0.0384 - acc: 0.9835 - val_loss: 0.4126 - val_acc: 0.9092
+Epoch 54/60
+20000/20000 [==============================] - 10s 483us/step - loss: 0.0384 - acc: 0.9839 - val_loss: 0.4402 - val_acc: 0.9136
+Epoch 55/60
+20000/20000 [==============================] - 10s 484us/step - loss: 0.0414 - acc: 0.9820 - val_loss: 0.4309 - val_acc: 0.9100
+Epoch 56/60
+20000/20000 [==============================] - 10s 483us/step - loss: 0.0417 - acc: 0.9808 - val_loss: 0.4743 - val_acc: 0.9076
+Epoch 57/60
+20000/20000 [==============================] - 10s 485us/step - loss: 0.0369 - acc: 0.9839 - val_loss: 0.4182 - val_acc: 0.9112
+Epoch 58/60
+20000/20000 [==============================] - 10s 484us/step - loss: 0.0431 - acc: 0.9824 - val_loss: 0.4691 - val_acc: 0.9048
+Epoch 59/60
+20000/20000 [==============================] - 10s 484us/step - loss: 0.0385 - acc: 0.9826 - val_loss: 0.4872 - val_acc: 0.9044
+Epoch 60/60
+20000/20000 [==============================] - 10s 483us/step - loss: 0.0373 - acc: 0.9832 - val_loss: 0.4370 - val_acc: 0.9128
